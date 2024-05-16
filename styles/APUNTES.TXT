@@ -1,0 +1,11 @@
+no slint 
+no typescript
+no src
+
+* cree folder styles y pase globals.css y lo cambie a main.css
+borre todo y 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+59:38 part 2
